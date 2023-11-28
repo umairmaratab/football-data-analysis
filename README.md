@@ -1,7 +1,13 @@
 # Football-data-analysis
 ### Football players data has been analyzed and visualized based on different filters.
 
-# Data used can be accssed via this link * **Data source:** [pro-football-reference.com](https://www.pro-football-reference.com/).
+### Data used can be accssed via this link:
+[pro-football-reference.com](https://www.pro-football-reference.com/).
+
+## Project Details
+* Uses **streamlit** to create webapp which uses markdown format to create website.
+* No Need of **django** or **flask**
+* Data given is loaded on to the UI and has **filters** to **filter** data and analyze it.
 
 ## How to run this project
 1. To run this first you **clone** the repo.
